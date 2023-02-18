@@ -2,7 +2,7 @@
 /**
  * main - A program that print a line using the printf f
 unction
- * Return: 0 (success)
+ * Return: 0 (Success)
  */
 int main (void)
 {
